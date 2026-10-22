@@ -1,0 +1,19 @@
+{
+  "name": "mohammeds-quiz-app",
+  "version": "1.0.0",
+  "description": "A movie-themed quiz application with authentication and leaderboards",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^5.0.0",
+    "express-session": "^1.18.0",
+    "pg": "^8.11.3"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}
