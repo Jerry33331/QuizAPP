@@ -1,4 +1,4 @@
-# Quiz App - Technical Specification & Development Plan
+# Mohammed's Quiz App - Technical Specification & Development Plan
 
 ---
 
@@ -7,6 +7,22 @@
 **Purpose**: A web-based quiz application that allows students to take quizzes and teachers to manage quiz content.
 
 **Target Users**: High school students (players) and teachers (admins)
+
+**App Name**: Mohammed's Quiz App
+
+### Theme & Design
+- **Primary Color**: Forest Green (#2E8B57)
+- **Secondary Color**: Sage Green (#9DC183)
+- **Background**: Light Cream (#FFF8F0)
+- **Accent Colors**: Dark green for buttons, white text on dark backgrounds
+- **Font**: Open Sans (Google Font) - clean, readable, modern
+- **Styling**: Rounded corners on buttons and cards, soft shadows for depth, cozy and warm visual mood
+- **Quiz Topics**: All quizzes are movie-themed
+  - Classic Movies
+  - Superhero Movies
+  - Animated Movies
+  - Horror Movies
+  - 2020s Movies
 
 ---
 
